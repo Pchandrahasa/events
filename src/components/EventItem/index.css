@@ -1,0 +1,19 @@
+.image {
+  height: 300px;
+  width: 300px;
+  cursor: pointer;
+}
+
+li {
+  margin: 5px;
+}
+
+.img-button {
+  background-color: transparent;
+  padding: 10px;
+}
+
+.image1 {
+  border-style: solid;
+  border-radius: 10px;
+}
